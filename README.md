@@ -1,6 +1,6 @@
 # ValveFit
 
-Differentiable B-spline module for fitting parametric surfaces to 3D point clouds.
+Differentiable B-spline module for fitting B-spline surfaces to 3D point clouds.
 
 ## Installation
 
